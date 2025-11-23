@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Aseprite
+Comment=A GTK theme inspired by the Aseprite UI
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Aseprite
+GtkTheme=Aseprite
+IconTheme=Aseprite
+MetacityTheme=Aseprite

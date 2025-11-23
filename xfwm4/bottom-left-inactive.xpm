@@ -1,0 +1,23 @@
+/* XPM */
+static char *dummy[]={
+"14 14 6 1",
+"d c None",
+". c #000000",
+"b c #7d929e",
+"c c #958174",
+"a c #d3cbbe",
+"# c #ffffff",
+"..##aaaaaaaabb",
+"..##aaaaaaaabb",
+"..##aaaaaaaaaa",
+"..##aaaaaaaaaa",
+"..##aaaaaaaaaa",
+"..##aaaaaaaaaa",
+"..############",
+"..############",
+"..cccccccccccc",
+"..cccccccccccc",
+"..............",
+"..............",
+"dddddddddddddd",
+"dddddddddddddd"};
